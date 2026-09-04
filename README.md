@@ -97,7 +97,7 @@ The main preparation steps included:
 
 ## Dashboard Preview
 
-![ZARA Product Performance Dashboard](Images/ZARA_Dashboard.png)
+![ZARA Product Performance Dashboard](ZARA_Dashboard.png)
 
 ---
 
