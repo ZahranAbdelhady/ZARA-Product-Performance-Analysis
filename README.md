@@ -140,20 +140,22 @@ Therefore:
 ---
 ## Skills Demonstrated
 
-Data Cleaning
-Data Transformation
-Exploratory Data Analysis
-KPI Development
-Data Visualization
-Business Analysis
-Power Query
-Power BI Dashboard Development
-Data Quality Review
-Business Storytelling
-
+- Data Cleaning
+- Data Transformation
+- Exploratory Data Analysis
+- KPI Development
+- Data Visualization
+- Business Analysis
+- Power Query
+- Power BI Dashboard Development
+- Data Quality Review
+- Business Storytelling
 ---
 ## Author
 
 Zahran Sayed
 
 Data Analytics & Data Science Student
+[GitHub](https://github.com/ZahranAbdelhady)
+
+[LinkedIn](https://www.linkedin.com/in/zahransayed)
