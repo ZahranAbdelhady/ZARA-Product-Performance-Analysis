@@ -101,7 +101,7 @@ The Power BI dashboard provides an interactive view of ZARA product performance.
 
 ### Dashboard Preview
 
-![ZARA Product Performance Dashboard](<img width="1395" height="797" alt="ZARA Dashboard" src="https://github.com/user-attachments/assets/11818012-b190-4093-af6f-46c115011911" />
+![ZARA Product Performance Dashboard](<img width="1395" height="797" alt="ZARA Dashboard" src="https://github.com/user-attachments/assets/3eee2f5e-10fa-454e-bb6b-380cadbf1342" />
 )
 
 ---
